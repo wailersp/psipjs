@@ -152,7 +152,7 @@ button:hover{
 }
 
 .main{
-    background: url(wall3.jpg);
+    background: url(img/wall3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width:100%;
@@ -208,12 +208,12 @@ button:hover{
 }
 /*fons*/
 .second_main_main{
-    background: url(wall.jpg);
+    background: url(img/wall.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 .second_main_photo{
-    background: url(wall2.jpg);
+    background: url(img/wall2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -227,7 +227,7 @@ button:hover{
 .white_main{
     height: 87vh;
     width: 100%;
-    background-image: url(font.png);
+    background-image: url(img/font.png);
     background-repeat: no-repeat;
     background-position: bottom;
     flex-flow: wrap;
